@@ -43,3 +43,15 @@
 
 // add(23,23,23);
 // add(45,45,45)
+
+//arrayoffunction
+// function arryofFunction(arr = []){
+        
+//     let total = 0;
+//     for (let i =0; i<arr.length; i++){
+//         total = total + arr[i];
+//     }
+//     return total;
+// }
+// const arr = [1,2,3,4,5]
+// console.log(arryofFunction(arr))
